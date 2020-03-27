@@ -3,6 +3,8 @@
 
 Busy Paws is a CLI app that allows you to book and manage dog walking appointments. Built by [Isabel K. Lee](https://www.kleetime.com).
 
+![Starting up Busy Paws](https://media.giphy.com/media/Xft5VkLjRx50bLJYe7/giphy.gif)
+
 ## Getting Started
 
 1. Clone this repository onto your local machine.
