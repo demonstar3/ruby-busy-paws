@@ -1,7 +1,7 @@
 🐾 Busy Paws 🐾
 ========================
 
-Busy Paws is a CLI app that allows you to book and manage dog walking appointments. Built by [Isabel K. Lee](https://www.kleetime.com).
+Busy Paws is a CLI app that allows you to book and manage dog walking appointments. Built using Ruby and Active Record. Made by [Isabel K. Lee](https://www.kleetime.com).
 
 ![Starting up Busy Paws](https://media.giphy.com/media/Xft5VkLjRx50bLJYe7/giphy.gif)
 
@@ -34,6 +34,4 @@ Here are some tools that I used to build Busy Paws:
 * [Text to ASCII Art Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20): generates ASCII art from inputted text
 * [ASCII Art Archive](https://www.asciiart.eu/): collection of ASCII art
 
-========================
-
-🐾🐶 Thanks for visiting, hope you enjoyed Busy Paws! 🐶🐾
+### 🐾🐶 Thanks for visiting, hope you enjoyed Busy Paws! 🐶🐾
